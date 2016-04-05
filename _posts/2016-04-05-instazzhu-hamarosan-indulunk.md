@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Instázz.hu - hamarosan indulunk!\_"
-datePublished: '2016-04-05T17:06:43.496Z'
-dateModified: '2016-04-05T17:06:34.448Z'
+datePublished: '2016-04-05T17:07:50.390Z'
+dateModified: '2016-04-05T17:06:54.783Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-instazzhu-hamarosan-indulunk.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-instazzhu-hamarosan-indulunk.md
-published: true
 url: instazzhu-hamarosan-indulunk/index.html
 _type: Article
 
