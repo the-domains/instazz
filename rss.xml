@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[instazz]]></title>
         <description><![CDATA[instazz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/instazz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 17:06:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 17:07:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/instazz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/161b2830-1cd1-469d-980a-f20876e33820.jpg">]]></description>
-            <link>undefinedinstazzhu-hamarosan-indulunk/index.html</link>
+            <link>https://thegrid.ai/instazz/instazzhu-hamarosan-indulunk/index.html</link>
             <guid isPermaLink="false">fb2c296a-17a2-484c-a927-db7038414ffa</guid>
-            <pubDate>Tue, 05 Apr 2016 17:06:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 17:07:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
