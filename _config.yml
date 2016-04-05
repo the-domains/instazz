@@ -1,0 +1,28 @@
+name: instazz
+favicon: null
+layout_spectrum: 0.027199558215215802
+typography_spectrum: 0.5021384684368968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5237191845662892
+  lightness: 0.6683587357401848
+  saturation: 0.49854829139076173
+  rhythmicContrast: 0.7727377151604742
+purpose: []
