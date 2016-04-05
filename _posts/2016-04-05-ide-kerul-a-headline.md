@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ide meg a lead szöveg. De tök jó.
-datePublished: '2016-04-05T20:36:21.400Z'
-dateModified: '2016-04-05T20:36:10.504Z'
+datePublished: '2016-04-05T20:40:05.182Z'
+dateModified: '2016-04-05T20:37:19.616Z'
 title: Ide kerül a headline
 author: []
 sourcePath: _posts/2016-04-05-ide-kerul-a-headline.md
@@ -23,6 +23,6 @@ _type: Article
 
 ---
 # Ide kerül a headline
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1de5721f-263a-4893-a6ec-9df0b3a2b1e5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/125fb3ce-4170-4280-9901-4dfcff910b13.png)
 
 Ide meg a lead szöveg. De tök jó.
